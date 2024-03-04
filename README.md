@@ -1,5 +1,5 @@
-<h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 <h1 align =center>Experiment 2</h1>
+<h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ### Name: Meenakshi M
 ### Register No: 212221230057
